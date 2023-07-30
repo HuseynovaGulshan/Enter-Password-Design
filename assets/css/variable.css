@@ -1,0 +1,51 @@
+:root{
+  color:var(--132-b-50 #132B50); 
+}
+
+.flex{
+  display: flex;
+}
+.gap-4{
+  gap:4px;
+}
+.gap-8{
+  gap:8px;
+}
+.gap-10{
+  gap:10px;
+}
+.gap-16{
+  gap:16px;
+}
+.gap-32{
+  gap:32px;
+}
+.gap-40{
+  gap:40px;
+}
+
+.items{
+  align-items: center;
+}
+
+.radius{
+  border-radius:8px;
+}
+.radius-16{
+  border-radius:16px;
+}
+.text-underline{
+  text-decoration-line: underline;
+}
+
+.p-85px{
+  padding:85px;
+}
+
+.p-16px{
+  padding: 16px;
+}
+
+.mb-8px{
+  margin-bottom:8px;
+}

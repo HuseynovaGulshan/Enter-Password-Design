@@ -1,0 +1,33 @@
+.icon {
+  width: 27px;
+  height: 27px;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: contain;
+}
+
+.icon-lg{
+  width: 60px;
+    height: 36px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+}
+
+.icon-lock{
+background-image: url(../icon/lock.svg);
+}
+
+.icon-frame{
+background-image: url(../icon/Frame.svg);
+}
+
+.icon-group{
+background-image: url(../icon/Group\ 1.svg);
+}
